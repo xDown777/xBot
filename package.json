@@ -1,0 +1,12 @@
+{
+  "name": "👺💙𝐌𝐨𝐝𝐝𝐞𝐫 𝐖𝐀 𝐱𝐃𝐨𝐰𝐧𝟕𝟕𝟕👻💙",
+  "version": "0.0.0",
+  "description": "",
+  "main": "xbot777.js",
+  "scripts": {
+  "start": "node xbot777.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
